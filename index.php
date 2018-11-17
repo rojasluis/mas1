@@ -53,7 +53,7 @@
   </header>
   
   <aside >
-      <div id="sidebar" class="nav-collapse"  style="position: absolute; z-index:10;">
+      <div id="sidebar" class="nav-collapse" >
         <ul class="sidebar-menu">
           <li class=""><a class="" href="#" onclick="principal();"><i class="icon_house_alt"></i><span>Principal</span></a></li>
           <li class="sub-menu"><a href="javascript:;" class=""><i class="icon_tools"></i>
