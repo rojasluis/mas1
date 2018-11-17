@@ -94,42 +94,10 @@
         </div>
 
 
-
-
-
-
-
-    
     <script src="./librerias/assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="./librerias/assets/jquery-1.11.2.min.js"></script>
     <script src="./librerias/assets/jquery.validate.min.js"></script>
     <script src="./librerias/assets/register.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -159,7 +127,7 @@
       </html>
         <div class="text-right">
         <div class="credits" style="text-align: center">
-              DEMO SENATI <a href="https://mas1tv.pe/">PRO-MAS1</a>
+              DEMO PROYECTO SENATI SENATI <a href="https://mas1tv.pe/">PRO-MAS1</a>
         </div>
         </div>
 
